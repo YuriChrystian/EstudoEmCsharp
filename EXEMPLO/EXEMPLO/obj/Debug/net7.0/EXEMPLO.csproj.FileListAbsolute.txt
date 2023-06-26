@@ -1,0 +1,15 @@
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\bin\Debug\net7.0\EXEMPLO.exe
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\bin\Debug\net7.0\EXEMPLO.deps.json
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\bin\Debug\net7.0\EXEMPLO.runtimeconfig.json
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\bin\Debug\net7.0\EXEMPLO.dll
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\bin\Debug\net7.0\EXEMPLO.pdb
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.csproj.AssemblyReference.cache
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.AssemblyInfoInputs.cache
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.AssemblyInfo.cs
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.csproj.CoreCompileInputs.cache
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.dll
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\refint\EXEMPLO.dll
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.pdb
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\EXEMPLO.genruntimeconfig.cache
+D:\Projetos\EstudoEmCsharp\EXEMPLO\EXEMPLO\obj\Debug\net7.0\ref\EXEMPLO.dll
